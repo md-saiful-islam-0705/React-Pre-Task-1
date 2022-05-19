@@ -1,0 +1,14 @@
+.alert-buttons button{
+    background-image: linear-gradient(rgb(0, 123, 255), rgb(255, 255, 255));
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    
+}
+.alert-buttons{
+    margin: 0;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    
+}

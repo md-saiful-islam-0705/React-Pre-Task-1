@@ -1,0 +1,29 @@
+.users-info{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) ;
+    row-gap: 10px;
+    column-gap: 10px;
+    background-color: rgb(104, 144, 245);
+    border-radius: 20px;
+    
+    
+}
+.user{
+    border: 2px solid rgb(0, 106, 255);
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 2px 5px 5px rgb(76, 177, 245);   
+    width: 300px;
+    margin-left: 160px;
+}
+
+.user-button  button {
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    background-image: linear-gradient(rgb(64, 0, 255), rgb(8, 172, 226));
+    font-weight: 600;
+    color: white;
+}

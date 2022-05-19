@@ -1,0 +1,15 @@
+.items{
+   margin: 50px;
+}
+.textAlign{
+    margin: auto;
+    width: 10%;
+    border: 20px solid #fcf5ea;
+    background-color: #ffbb00;
+    padding: 200px;
+    
+    
+}
+.textAlign h2 {
+    font-size: 15px;
+}

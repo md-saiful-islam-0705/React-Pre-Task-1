@@ -1,0 +1,35 @@
+.form{
+    background-color: rgb(255, 255, 255);
+    margin: 50px;
+    text-align: center;
+    height: 200px;
+    border-radius: 30px;
+    padding: 50px;
+    border: 2px solid rgb(62, 138, 244);
+}
+
+.form-input{
+    background-color: rgb(77, 149, 251);
+    margin: auto;
+    padding: 50px;
+    height: 250px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+.first-input{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.last-input{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.button{
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(249, 99, 35);
+    font-weight: 600;
+}
